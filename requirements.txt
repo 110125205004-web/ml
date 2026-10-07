@@ -1,0 +1,4 @@
+# tested with Python 3.9 - 3.11
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+numpy<2

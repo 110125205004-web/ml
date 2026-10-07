@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+scene.json
+*.mp4
+runs/
